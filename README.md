@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ashishekka329@gmail.com**
 
-- 📄 Know about my experiences [https://ashishekka.me/Ashish_Ekka_Resume_2021.pdf](https://ashishekka.me/Ashish_Ekka_Resume_2021.pdf)
+- 📄 Know about my experiences [https://ashishekka.me/Resume.pdf](https://ashishekka.me/Resume.pdf)
 
 - ⚡ Fun fact **I am a big fan of Legend of Zelda ⚔️ franchise.**
 
