@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Open GL for Android**
 
-- 👯 I’m looking to collaborate on [Lemuroid](https://github.com/Swordfish90/Lemuroid)
-
 - 🤝 I’m looking for help with [NESKot](https://github.com/AshishEkka97/NESKot)
 
 - 👨‍💻 All of my projects are available at [https://ashishekka.me](https://ashishekka.me)
@@ -14,8 +12,6 @@
 - 📝 I regularly write articles on [https://ashishekka.me/blogs](https://ashishekka.me/blogs)
 
 - 💬 Ask me about **Kotlin, Android**
-
-- 📫 How to reach me **ashishekka329@gmail.com**
 
 - 📄 Know about my experiences [https://ashishekka.me/Resume.pdf](https://ashishekka.me/Resume.pdf)
 
