@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish Ekka</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [NESKot](https://github.com/AshishEkka97/NESKot)
+- 🔭 I’m currently working on [Kate](https://github.com/AshishEkka97/k8)
 
 - 🌱 I’m currently learning **Open GL for Android**
 
-- 🤝 I’m looking for help with [NESKot](https://github.com/AshishEkka97/NESKot)
+- 🤝 I’m looking for help with [Kate](https://github.com/AshishEkka97/k8)
 
 - 👨‍💻 All of my projects are available at [https://ashishekka.me](https://ashishekka.me)
 
