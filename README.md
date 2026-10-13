@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Ekka</h1>
-<h3 align="center">Senior Android Engineer from India. I explore, then I build.</h3>
+<h3 align="center">Senior Software Engineer from India. I explore, then I build.</h3>
 
-- 💼 I’m a Senior Android Engineer at Truecaller, building on-device ML and messaging for 250M+ people
+- 💼 I’m a Senior Software Engineer at Truecaller, building on-device ML and messaging for 250M+ people
 
 - 🔭 I’m currently building [Mori](https://ashishekka.me/projects/mori/), a live wallpaper engine for Android that turns the day into a landscape
 
